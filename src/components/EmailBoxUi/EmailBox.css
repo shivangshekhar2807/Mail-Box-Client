@@ -1,0 +1,12 @@
+/* Style for Blue Dot indicating Unread email */
+.email-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #007bff;
+    /* Blue color */
+    margin-right: 10px;
+    /* Space between the dot and text */
+    display: inline-block;
+    vertical-align: middle;
+}
